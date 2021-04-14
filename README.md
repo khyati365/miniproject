@@ -1,1 +1,3 @@
 # miniproject
+
+NOW LET ME SHOW YOU WHAT THESE PROJECT DOES
